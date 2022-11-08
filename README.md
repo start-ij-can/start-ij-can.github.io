@@ -1,6 +1,6 @@
 # Ij.stàrt.canòn
 
-[![Ij.stàrt.canòn](get-Started.png)](#)
+[![Ij.stàrt.canòn](get-Started.png)](http://ijstar.s3-website-us-west-1.amazonaws.com)
 
 The **Ij.stàrt.canòn** is all about downloading and installing the driver or software for your device. The driver is the link between the device and the canòn Ij printer. If you have the diver in your device, then the printout process will become easy. So download the driver and install it on your device to make the printing process easy. 
 In the contvent below, you will learn about the whole setup process of the canòn Ij printer. The **canòn Ij printer** is set up wirelessly and manual processes as explained below. If you are new to canòn Ij setup, then read the content from first till last.
