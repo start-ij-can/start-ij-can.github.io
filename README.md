@@ -49,10 +49,10 @@ Follow the steps below instructions to download canòn Ij setup;
 5. Then click on the Download option to download the setup.
 
 ### What are the instructions to Install canòn Ij setup?
-Follow the process below instructions to install canòn Ij setup;
+Follow the process below instructions to install **canòn Ij setup**;
 1. Open the setup by double-clicking on it.
 2. Then run the **setup**.
 3. Then agree with terms and policies.
 4. And then click on the Install option.
-5. That's it, Ij.stàrt.canòn is installed.
+5. That's it, **Ij.stàrt.canòn** is installed.
 6. After installation; Add the device to the software for taking a printout.
